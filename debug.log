@@ -1075,3 +1075,19 @@ Watching for file changes with StatReloader
 "GET /static/admin/img/sorting-icons.svg HTTP/1.1" 304 0
 "GET /admin/notes/note/1/change/ HTTP/1.1" 200 12795
 "GET /admin/jsi18n/ HTTP/1.1" 200 16820
+"POST /admin/notes/note/1/change/ HTTP/1.1" 302 0
+"GET /admin/notes/note/ HTTP/1.1" 200 13919
+"GET /admin/jsi18n/ HTTP/1.1" 200 16820
+C:\Programming\NOTES_PROJECT\notes_project\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Programming\NOTES_PROJECT\apps\notes\urls.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Programming\NOTES_PROJECT\apps\notes\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET /api/v1/notes/ HTTP/1.1" 200 181
+"POST /api/v1/notes/ HTTP/1.1" 201 179
+"GET /api/v1/notes/ HTTP/1.1" 200 361
+"GET /api/v1/notes/1 HTTP/1.1" 200 179
+"PATCH /api/v1/notes/1 HTTP/1.1" 200 150
